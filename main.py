@@ -4,9 +4,9 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 
 #COPIED FROM 100 DAYS
-ACCOUNT_EMAIL = "noahsj@umich.edu"
-ACCOUNT_PASSWORD = "Nsj061001!"
-PHONE = "248925964"
+ACCOUNT_EMAIL = "EMAIL"
+ACCOUNT_PASSWORD = "PASSWORD"
+PHONE = "9999999999"
 
 chrome_driver_path = "/Users/noahjacobs/Documents/100-days-of-code/chromedriver"
 driver = webdriver.Chrome(chrome_driver_path)
